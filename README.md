@@ -1,3 +1,7 @@
+# Moved!
+
+This proposal has been subsumed by [the wasi-messaging proposal](https://github.com/WebAssembly/wasi-messaging).
+
 # [Example WASI proposal]
 
 This template can be used to start a new proposal, which can then be proposed in the WASI Subgroup meetings.
